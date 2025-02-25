@@ -1,2 +1,2 @@
-
+axis_camera
 -DCATKIN_DEVEL_PREFIX=/home/jonas/catkin_p3at/devel -DCMAKE_INSTALL_PREFIX=/home/jonas/catkin_p3at/install -G Unix Makefiles
